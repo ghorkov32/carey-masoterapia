@@ -65,7 +65,7 @@ Or Check out [Full Documentation](https://docs.gethugothemes.com/meghna/?ref=git
 ## 🔧Deployment and hosting
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/themefisher/meghna-hugo)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ghorkov32/carey-masoterapia)
 
 Follow the steps.
 
